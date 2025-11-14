@@ -9,9 +9,6 @@ import { HttpClientModule } from '@angular/common/http';
 
 
 @NgModule({
-  providers:[
-    AuthModule
-  ],
 
   declarations: [
     LoginComponent,
